@@ -6,7 +6,7 @@ function fetchData(callback) {
 }
 
 function processData() {
-  //....
+
   console.log("Processing data...");
 }
 
