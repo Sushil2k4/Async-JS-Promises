@@ -10,6 +10,9 @@ const fetchData = new Promise((resolve, reject) => {
   }, 2000);
 });
 
+
+//ASYNC JS - PROMISE PRACTICE SESSIONS
+
 fetchData
   .then((data) => {
     console.log(data);
